@@ -7,7 +7,7 @@ Base documentation: https://reqres.in/
 
 *utilização de properties para evitar repetições
 
-*inclisão de necários negatívos
+*inclisão de cenários negatívos
 
 *melhoria nas mensagens de erros em cada teste
 
